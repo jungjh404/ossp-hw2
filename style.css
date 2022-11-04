@@ -1,0 +1,27 @@
+#profile-img {
+    width: 100%;
+    border: 1rem white solid;
+}
+
+.hidden {
+	position: absolute;
+	overflow: hidden;
+	width: 0;
+	height: 0;
+	pointer-events: none;
+}
+
+.icon {
+    display: block;
+    width: 1.5em;
+    height: 1.5em;
+    margin: 1em;
+}
+
+.icon-list li{
+    float: left;
+}
+
+.fw-bold {
+	margin-bottom: 0;
+}
